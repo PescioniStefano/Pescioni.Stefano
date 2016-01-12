@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+MyForm.cpp(6): warning C4829: Parametri probabilmente errati nella funzione main. Si consiglia di utilizzare 'int main(array<System::String^>^ argv)'
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK non è supportato in presenza di codice gestito. Il collegamento verrà riavviato con /DEBUG:FULL
+  Es1.vcxproj -> c:\users\gianni\documents\visual studio 2015\Projects\Es1\Debug\Es1.exe
+  Es1.vcxproj -> c:\users\gianni\documents\visual studio 2015\Projects\Es1\Debug\Es1.pdb (Partial PDB)
